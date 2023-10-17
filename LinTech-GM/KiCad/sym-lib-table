@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name AT89C51-24PC)(type Legacy)(uri ${KIPRJMOD}/lib/AT89C51-24PC.lib)(options "")(descr ""))
+  (lib (name rfl_memory)(type Legacy)(uri ${KIPRJMOD}/lib/rfl_memory.lib)(options "")(descr ""))
+)

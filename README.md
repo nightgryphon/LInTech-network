@@ -36,6 +36,7 @@
 - [NET-Rt11](https://www.emuverse.ru/wiki/%D0%A3%D0%9A%D0%9D%D0%A6_%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB_1994-01_%D0%9B%D0%98%D0%BD%D0%A2%D0%B5%D1%85), 
 - [DOS-Line](http://www.uw.ru/about/archive/dos-line/), 
 - [NET-CP/M](https://oldkorvet.narod.ru/Utils.html)
+- NET-БК0010
 
 В данном проекте представлены:
 - Documentation - руководства
@@ -44,7 +45,7 @@
 - LInTech-UKNC - клиентская плата УКНЦ
 - LInTech-BK - клиентская плата БК
 
-Ученическая плата для ПЭВМ Корвет была реконструирована усилиями NexusOfPenza и Lordamot и представлена в [проекте](https://github.com/lordamot/retro-lintech)
+[Ученическая плата для ПЭВМ Корвет](https://github.com/lordamot/retro-lintech) была реконструирована усилиями NexusOfPenza и Lordamot
 
 Платы в данном проекте не являются точной копией оригинала т.к. часть плат не видна под установлеными компонентами и невозможно сделать точную копию без разрушения оригинала. 
 Реконструкция создана в KiCad с чистого листа имея оригинальную плату (или ее фото) в качестве образца. 
@@ -53,13 +54,13 @@
 Все данные публикуются с согласия представителя ЛИнТех.
 
 ## Ссылки
-1. https://dic.academic.ru/dic.nsf/ruwiki/46187#.D0.9C.D0.BE.D0.B4.D0.B5.D1.80.D0.BD.D0.B8.D0.B7.D0.B0.D1.86.D0.B8.D1.8F
-2. Каталог статей об УКНЦ (а также, о разработках фирмы ЛИнТех) http://school136.perm.ru/sunduk/samos/info.htm
-3. https://www.emuverse.ru/wiki/%D0%A3%D0%9A%D0%9D%D0%A6_%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB_1994-01_%D0%9B%D0%98%D0%BD%D0%A2%D0%B5%D1%85
-4. Приказ Мин Обр 'О модернизации отечественных КУВТ "Корвет" и УКНЦ' N 155/28 от 13.05.96г http://web.archive.org/web/20070927175919/http://www.informika.ru/text/goscom/normdoc/d_96/PRIK~5/l155.html
-5. Многозадачная, многопользовательская операционная система DOS-Line http://www.uw.ru/about/archive/dos-line/
-6. Фото Arseny http://uknc.narod.ru/Img/index.htm
-7. Инструкции и ПО УКНЦ http://uknc.narod.ru/Net-RT11/index.htm
-8. Фото и описание Argent https://pk8020.fandom.com/ru/wiki/LINTECH
-9. NET-CP/M https://oldkorvet.narod.ru/Utils.html
-10. LInTech-Corvette https://github.com/lordamot/retro-lintech
+1. [academic.ru: Что такое УКНЦ? см раздел "Модернизация"](https://dic.academic.ru/dic.nsf/ruwiki/46187#.D0.9C.D0.BE.D0.B4.D0.B5.D1.80.D0.BD.D0.B8.D0.B7.D0.B0.D1.86.D0.B8.D1.8F)
+2. [Каталог статей об УКНЦ (а также, о разработках фирмы ЛИнТех)](http://school136.perm.ru/sunduk/samos/info.htm)
+3. [«NET-Rt11» — СЕТЕВАЯ СИСТЕМА ДЛЯ КУВТ «УКНЦ» С IBM-СОВМЕСТИМОЙ ГОЛОВНОЙ МАШИНОЙ](https://www.emuverse.ru/wiki/%D0%A3%D0%9A%D0%9D%D0%A6_%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB_1994-01_%D0%9B%D0%98%D0%BD%D0%A2%D0%B5%D1%85)
+4. [Приказ Мин Обр 'О модернизации отечественных КУВТ "Корвет" и УКНЦ' N 155/28 от 13.05.96г](http://web.archive.org/web/20070927175919/http://www.informika.ru/text/goscom/normdoc/d_96/PRIK~5/l155.html)
+5. [Многозадачная, многопользовательская операционная система DOS-Line](http://www.uw.ru/about/archive/dos-line/)
+6. [uknc.narod.ru: Фото от Arseny](http://uknc.narod.ru/Img/index.htm)
+7. [uknc.narod.ru: Инструкции и ПО УКНЦ](http://uknc.narod.ru/Net-RT11/index.htm)
+8. [pk8020.fandom.com:Фото и описание Argent](https://pk8020.fandom.com/ru/wiki/LINTECH)
+9. [Дистрибутив NET-CP/M](https://oldkorvet.narod.ru/Utils.html)
+10. [LInTech-Corvette](https://github.com/lordamot/retro-lintech)
