@@ -1068,7 +1068,7 @@
     (fp_text reference LD1 (at 4.445 2.54 180) (layer F.SilkS)
       (effects (font (size 2 2) (thickness 0.3)))
     )
-    (fp_text value LD1 (at 1.27 3.46 90) (layer F.Fab)
+    (fp_text value "LED Red 4mm" (at 1.27 3.46 90) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 4 2.75) (end 4 -2.75) (layer F.CrtYd) (width 0.05))
@@ -1363,7 +1363,7 @@
     (fp_text reference LD2 (at 4.445 2.54) (layer F.SilkS)
       (effects (font (size 2 2) (thickness 0.3)))
     )
-    (fp_text value LD2 (at 1.27 3.46 90) (layer F.Fab) hide
+    (fp_text value "LED Red 4mm" (at 1.27 3.46 90) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 4 -2.75) (end -1.45 -2.75) (layer F.CrtYd) (width 0.05))
@@ -1527,7 +1527,7 @@
     (fp_text reference R10 (at 15.875 -0.635 90) (layer F.SilkS)
       (effects (font (size 2 2) (thickness 0.3)))
     )
-    (fp_text value ~ (at 5.08 2.37) (layer F.Fab)
+    (fp_text value 150 (at 5.08 2.37) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start -1.05 -1.5) (end -1.05 1.5) (layer F.CrtYd) (width 0.05))
@@ -1827,7 +1827,7 @@
     (descr "Diode, A-405 series, Axial, Horizontal, pin pitch=12.7mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf")
     (tags "Diode A-405 series Axial Horizontal pin pitch 12.7mm  length 5.2mm diameter 2.7mm")
     (path /66287494)
-    (fp_text reference VD1 (at 12.7 -3.81 180) (layer F.SilkS)
+    (fp_text reference VD1 (at -0.635 5.08) (layer F.SilkS)
       (effects (font (size 2 2) (thickness 0.3)))
     )
     (fp_text value КД522Б (at 6.35 2.47 90) (layer F.Fab)
@@ -1859,7 +1859,7 @@
     (descr "Diode, A-405 series, Axial, Horizontal, pin pitch=12.7mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf")
     (tags "Diode A-405 series Axial Horizontal pin pitch 12.7mm  length 5.2mm diameter 2.7mm")
     (path /66747427)
-    (fp_text reference VD3 (at 3.175 3.175) (layer F.SilkS)
+    (fp_text reference VD3 (at 8.255 -2.2225) (layer F.SilkS)
       (effects (font (size 2 2) (thickness 0.3)))
     )
     (fp_text value КД522Б (at 6.35 2.47) (layer F.Fab)
@@ -1891,7 +1891,7 @@
     (descr "Diode, A-405 series, Axial, Horizontal, pin pitch=12.7mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf")
     (tags "Diode A-405 series Axial Horizontal pin pitch 12.7mm  length 5.2mm diameter 2.7mm")
     (path /661F998D)
-    (fp_text reference VD2 (at 6.35 2.54) (layer F.SilkS)
+    (fp_text reference VD2 (at 6.985 -2.54) (layer F.SilkS)
       (effects (font (size 2 2) (thickness 0.3)))
     )
     (fp_text value КД522Б (at 6.35 2.47) (layer F.Fab)
@@ -1923,7 +1923,7 @@
     (descr "Diode, A-405 series, Axial, Horizontal, pin pitch=12.7mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf")
     (tags "Diode A-405 series Axial Horizontal pin pitch 12.7mm  length 5.2mm diameter 2.7mm")
     (path /6554CFA0)
-    (fp_text reference VD4 (at -4.445 0) (layer F.SilkS)
+    (fp_text reference VD4 (at 17.145 0) (layer F.SilkS)
       (effects (font (size 2 2) (thickness 0.3)))
     )
     (fp_text value КД522Б (at 6.35 2.47) (layer F.Fab)
@@ -1958,7 +1958,7 @@
     (fp_text reference C1 (at 2.5 -2.5) (layer F.SilkS)
       (effects (font (size 2 2) (thickness 0.3)))
     )
-    (fp_text value C (at 2.5 2.5) (layer F.Fab) hide
+    (fp_text value 18pF (at 2.5 2.5) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 6.05 -1.5) (end -1.05 -1.5) (layer F.CrtYd) (width 0.05))
@@ -1987,7 +1987,7 @@
     (fp_text reference C12 (at 2.5 -2.5 90) (layer F.SilkS)
       (effects (font (size 2 2) (thickness 0.3)))
     )
-    (fp_text value ~ (at 2.5 2.5 90) (layer F.Fab)
+    (fp_text value "0.15 мкФ" (at 2.5 2.5 90) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 6.05 -1.5) (end -1.05 -1.5) (layer F.CrtYd) (width 0.05))
@@ -2016,7 +2016,7 @@
     (fp_text reference C3 (at -3.81 1.27) (layer F.SilkS)
       (effects (font (size 2 2) (thickness 0.3)))
     )
-    (fp_text value ~ (at 2.5 2.5) (layer F.Fab) hide
+    (fp_text value "1нФ ?" (at 2.5 2.5) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 6.05 -1.5) (end -1.05 -1.5) (layer F.CrtYd) (width 0.05))
@@ -2045,7 +2045,7 @@
     (fp_text reference C2 (at 2.5 -2.5) (layer F.SilkS)
       (effects (font (size 2 2) (thickness 0.3)))
     )
-    (fp_text value C (at 2.5 2.5) (layer F.Fab) hide
+    (fp_text value 18pF (at 2.5 2.5) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 6.05 -1.5) (end -1.05 -1.5) (layer F.CrtYd) (width 0.05))
@@ -2628,7 +2628,7 @@
     (fp_text reference CF10 (at -0.635 5.08 90) (layer F.SilkS)
       (effects (font (size 2 2) (thickness 0.3)))
     )
-    (fp_text value C (at 2.5 2.5) (layer F.Fab) hide
+    (fp_text value 150nF (at 2.5 2.5) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start -1.05 -1.5) (end -1.05 1.5) (layer F.CrtYd) (width 0.05))
@@ -2657,7 +2657,7 @@
     (fp_text reference CF9 (at 0 -4.445 180) (layer F.SilkS)
       (effects (font (size 2 2) (thickness 0.3)))
     )
-    (fp_text value C (at 2.5 2.5 90) (layer F.Fab) hide
+    (fp_text value 150nF (at 2.5 2.5 90) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start -1.05 -1.5) (end -1.05 1.5) (layer F.CrtYd) (width 0.05))
@@ -2686,7 +2686,7 @@
     (fp_text reference CF8 (at 2.5 -2.5) (layer F.SilkS)
       (effects (font (size 2 2) (thickness 0.3)))
     )
-    (fp_text value C (at 2.5 2.5) (layer F.Fab) hide
+    (fp_text value 150nF (at 2.5 2.5) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start -1.05 -1.5) (end -1.05 1.5) (layer F.CrtYd) (width 0.05))
@@ -2715,7 +2715,7 @@
     (fp_text reference CF7 (at 2.5 3.175 90) (layer F.SilkS)
       (effects (font (size 2 2) (thickness 0.3)))
     )
-    (fp_text value C (at 2.5 2.5 90) (layer F.Fab) hide
+    (fp_text value 150nF (at 2.5 2.5 90) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start -1.05 -1.5) (end -1.05 1.5) (layer F.CrtYd) (width 0.05))
@@ -2744,7 +2744,7 @@
     (fp_text reference CF6 (at 2.5 -2.5 90) (layer F.SilkS)
       (effects (font (size 2 2) (thickness 0.3)))
     )
-    (fp_text value C (at 2.5 2.5 90) (layer F.Fab) hide
+    (fp_text value 150nF (at 2.5 2.5 90) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start -1.05 -1.5) (end -1.05 1.5) (layer F.CrtYd) (width 0.05))
@@ -2773,7 +2773,7 @@
     (fp_text reference CF5 (at 2.5 -2.5) (layer F.SilkS)
       (effects (font (size 2 2) (thickness 0.3)))
     )
-    (fp_text value C (at 2.5 2.5) (layer F.Fab) hide
+    (fp_text value 150nF (at 2.5 2.5) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start -1.05 -1.5) (end -1.05 1.5) (layer F.CrtYd) (width 0.05))
@@ -2802,7 +2802,7 @@
     (fp_text reference CF4 (at 0.635 -4.445 180) (layer F.SilkS)
       (effects (font (size 2 2) (thickness 0.3)))
     )
-    (fp_text value C (at 2.5 2.5 90) (layer F.Fab) hide
+    (fp_text value 150nF (at 2.5 2.5 90) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start -1.05 -1.5) (end -1.05 1.5) (layer F.CrtYd) (width 0.05))
@@ -2831,7 +2831,7 @@
     (fp_text reference CF3 (at 7.62 -0.635 180) (layer F.SilkS)
       (effects (font (size 2 2) (thickness 0.3)))
     )
-    (fp_text value C (at 2.5 2.5 90) (layer F.Fab) hide
+    (fp_text value 150nF (at 2.5 2.5 90) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start -1.05 -1.5) (end -1.05 1.5) (layer F.CrtYd) (width 0.05))
@@ -2860,7 +2860,7 @@
     (fp_text reference CF2 (at -0.08 2.54 90) (layer F.SilkS)
       (effects (font (size 2 2) (thickness 0.3)))
     )
-    (fp_text value C (at 2.5 2.5 90) (layer F.Fab) hide
+    (fp_text value 150nF (at 2.5 2.5 90) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start -1.05 -1.5) (end -1.05 1.5) (layer F.CrtYd) (width 0.05))
@@ -2889,7 +2889,7 @@
     (fp_text reference CF1 (at 2.54 2.54 90) (layer F.SilkS)
       (effects (font (size 2 2) (thickness 0.3)))
     )
-    (fp_text value C (at 2.5 2.5 90) (layer F.Fab) hide
+    (fp_text value 150nF (at 2.5 2.5 90) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start -1.05 -1.5) (end -1.05 1.5) (layer F.CrtYd) (width 0.05))
