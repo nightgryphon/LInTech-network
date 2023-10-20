@@ -2,7 +2,7 @@
 Проект посвящен сбору информации, реконструкции и исследованию учебного сетевого комплекса LInTech для компьютерных классов СССР.
 
 ## История
-<img src="./Documentation/UKNC1.png" align="right" width="25%">
+<img src="./Documentation/UKNC1.png" align="right" width="30%">
 
 Комплекс был [разработан](https://dic.academic.ru/dic.nsf/ruwiki/46187#.D0.9C.D0.BE.D0.B4.D0.B5.D1.80.D0.BD.D0.B8.D0.B7.D0.B0.D1.86.D0.B8.D1.8F) в 1990-х гг. ООО «ЛИнТех» («Лаборатория информационных технологий») совместно с ООО «Алтер-Вест»
 для модернизации существующих учебных классов на базе ПЭВМ Корвет, УКНЦ и БК0010 для изучения современного на тот момент ПО для IBM PC.
@@ -36,7 +36,7 @@
 Все это позволяет попробовать реконструировать и запустить сеть ЛИнТех.
 
 ## Реконструкция
-[<img src="./LinTech-GM/KiCad/LinTech-GM-board_NC-ACM-2.2.png" height="250px" margin="15px">](./LinTech-GM/)[<img src="./LinTech-UKNC/KiCad/LInTech-UKNC.png" height="250px">](./LInTech-UKNC/)
+[<img src="./LinTech-GM/KiCad/LinTech-GM-board_NC-ACM-2.2.png" height="250px" margin="15px">](./LinTech-GM/)[<img src="./LinTech-UKNC/KiCad/LInTech-UKNC.png" height="250px">](./LinTech-UKNC/)
 
 Аппаратно комплекс реализован в виде клиентских плат, устанавливаемых в слоты расширения ПЭВМ учеников, и головной ISA платы для учительской IBM PC совместимой машины. 
 Платы построены на основе микроконтроллеров Intel 8031 и 8051.
