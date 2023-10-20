@@ -36,7 +36,7 @@
 Все это позволяет попробовать реконструировать и запустить сеть ЛИнТех.
 
 ## Реконструкция
-<img src="./LinTech-GM/KiCad/LinTech-GM-board_NC-ACM-2.2.png" height="250px" margin="15px"><img src="./LinTech-UKNC/KiCad/LInTech-UKNC.png" height="250px">
+[<img src="./LinTech-GM/KiCad/LinTech-GM-board_NC-ACM-2.2.png" height="250px" margin="15px">](./LinTech-GM/)[<img src="./LinTech-UKNC/KiCad/LInTech-UKNC.png" height="250px">](./LInTech-UKNC/)
 
 Аппаратно комплекс реализован в виде клиентских плат, устанавливаемых в слоты расширения ПЭВМ учеников, и головной ISA платы для учительской IBM PC совместимой машины. 
 Платы построены на основе микроконтроллеров Intel 8031 и 8051.
