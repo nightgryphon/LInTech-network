@@ -51,8 +51,8 @@
 
 В данном проекте представлены:
 - [LInTech-GM](./LinTech-GM/) - реконструкция головной платы **[ плата ISA для IBM PC ]**
-- [LInTech-UKNC](./LInTech-UKNC/) - клиентская плата УКНЦ
-- [LInTech-BK](./LInTech-BK/) - клиентская плата БК
+- [LInTech-UKNC](./LinTech-UKNC/) - клиентская плата УКНЦ
+- [LInTech-BK](./LinTech-BK/) - клиентская плата БК
 - [Software](./Software/) - ПО головной машины
 - [Documentation](./Documentation/) - руководства
 
