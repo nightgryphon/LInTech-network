@@ -107,7 +107,7 @@ U 1 1 6519EF05
 P 5475 10700
 F 0 "XA.2" H 5675 12350 50  0000 R CNN
 F 1 "~" H 5447 10633 50  0001 R CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x31_P2.54mm_Vertical" H 5475 10700 50  0001 C CNN
+F 2 "lib:PinHeader_1x31_P2.54mm_Vertical" H 5475 10700 50  0001 C CNN
 F 3 "~" H 5475 10700 50  0001 C CNN
 	1    5475 10700
 	-1   0    0    -1  
@@ -118,7 +118,7 @@ U 1 1 651A61BE
 P 5825 10700
 F 0 "XA.1" H 5925 12350 50  0000 C CNN
 F 1 "~" H 5933 12290 50  0001 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x31_P2.54mm_Vertical" H 5825 10700 50  0001 C CNN
+F 2 "lib:PinHeader_1x31_P2.54mm_Vertical" H 5825 10700 50  0001 C CNN
 F 3 "~" H 5825 10700 50  0001 C CNN
 	1    5825 10700
 	1    0    0    -1  

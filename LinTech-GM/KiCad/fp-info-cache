@@ -1,4 +1,4 @@
-19722934983131960
+19700922301379798
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -78071,16 +78071,16 @@ SparkFun-Connectors
 40
 40
 SparkFun-Connectors
-2X03
-PIN HEADER
-PIN HEADER
+2X3
+
+
 0
 6
 6
 SparkFun-Connectors
-2X3
-
-
+2X03
+PIN HEADER
+PIN HEADER
 0
 6
 6
@@ -85847,104 +85847,6 @@ varistor SIOV
 0
 2
 2
-footprints
-AT89C51-24PC
-
-
-0
-40
-40
-footprints
-DIP-14_W7.62mm
-14-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)
-THT DIP DIL PDIP 2.54mm 7.62mm 300mil
-0
-14
-14
-footprints
-DIP-16_W7.62mm
-16-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)
-THT DIP DIL PDIP 2.54mm 7.62mm 300mil
-0
-16
-16
-footprints
-DIP-20_W7.62mm
-20-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)
-THT DIP DIL PDIP 2.54mm 7.62mm 300mil
-0
-20
-20
-footprints
-DIP-24_W15.24mm
-24-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils)
-THT DIP DIL PDIP 2.54mm 15.24mm 600mil
-0
-24
-24
-footprints
-DIP-24_W15.24mm_Socket
-24-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils), Socket
-THT DIP DIL PDIP 2.54mm 15.24mm 600mil Socket
-0
-24
-24
-footprints
-DIP-40_W15.24mm
-40-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils)
-THT DIP DIL PDIP 2.54mm 15.24mm 600mil
-0
-40
-40
-footprints
-D_A-405_P12.70mm_Horizontal
-Diode, A-405 series, Axial, Horizontal, pin pitch=12.7mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf
-Diode A-405 series Axial Horizontal pin pitch 12.7mm  length 5.2mm diameter 2.7mm
-0
-2
-2
-footprints
-Jumper_P2.54mm_Close
-Through hole straight pin header, 1x02, 2.54mm pitch, single row
-Through hole pin header THT 1x02 2.54mm single row
-0
-2
-2
-footprints
-Jumper_P2.54mm_Open
-Through hole straight pin header, 1x02, 2.54mm pitch, single row
-Through hole pin header THT 1x02 2.54mm single row
-0
-2
-2
-footprints
-PinHeader_1x08_P2.54mm_Vertical
-Through hole straight pin header, 1x08, 2.54mm pitch, single row
-Through hole pin header THT 1x08 2.54mm single row
-0
-8
-8
-footprints
-R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal
-Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf
-Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W length 6.3mm diameter 2.5mm
-0
-2
-2
-footprints
-R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal
-Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=12.7mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf
-Resistor Axial_DIN0309 series Axial Horizontal pin pitch 12.7mm 0.5W = 1/2W length 9mm diameter 3.2mm
-0
-2
-2
-footprints
-R_Axial_DIN0918_L18.0mm_D9.0mm_P22.86mm_Horizontal
-Resistor, Axial_DIN0918 series, Axial, Horizontal, pin pitch=22.86mm, 4W, length*diameter=18*9mm^2
-Resistor Axial_DIN0918 series Axial Horizontal pin pitch 22.86mm 4W length 18mm diameter 9mm
-0
-2
-2
 lib
 C_Disc_D5.0mm_W2.5mm_P5.00mm
 C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=5*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf
@@ -86029,6 +85931,20 @@ Through hole pin header THT 1x08 2.54mm single row
 0
 8
 8
+lib
+PinHeader_1x08_P2.54mm_Vertical.bk
+Through hole straight pin header, 1x08, 2.54mm pitch, single row
+Through hole pin header THT 1x08 2.54mm single row
+0
+8
+8
+lib
+PinHeader_1x31_P2.54mm_Vertical
+Through hole straight pin header, 1x31, 2.54mm pitch, single row
+Through hole pin header THT 1x31 2.54mm single row
+0
+31
+31
 lib
 R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal
 Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf
