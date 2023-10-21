@@ -36,7 +36,7 @@
 Все это позволяет попробовать реконструировать и запустить сеть ЛИнТех.
 
 ## Реконструкция
-[<img src="./LinTech-GM/KiCad/LinTech-GM-board_NC-ACM-2.2.png" height="250px" margin="15px">](./LinTech-GM/)[<img src="./LinTech-UKNC/KiCad/LInTech-UKNC.png" height="250px">](./LinTech-UKNC/)
+[<img src="./Server-IBM-PC/KiCad/LinTech-GM-board_NC-ACM-2.2.png" height="250px" margin="15px">](./Server-IBM-PC/)[<img src="./Terminal-UKNC/KiCad/LInTech-UKNC.png" height="250px">](./Terminal-UKNC/)
 
 Аппаратно комплекс реализован в виде клиентских плат, устанавливаемых в слоты расширения ПЭВМ учеников, и головной ISA платы для учительской IBM PC совместимой машины. 
 Платы построены на основе микроконтроллеров Intel 8031 и 8051.
@@ -50,14 +50,13 @@
 - NET-БК0010
 
 В данном проекте представлены:
-- [LInTech-GM](./LinTech-GM/) - реконструкция головной платы **[ плата ISA для IBM PC ]**
-- [LInTech-UKNC](./LinTech-UKNC/) - клиентская плата УКНЦ
-- [LInTech-BK](./LinTech-BK/) - клиентская плата БК
-- [Software](./Software/) - ПО головной машины
+- [Server-IBM-PC](./Server-IBM-PC/) - головная **[ учительская плата ISA для IBM PC ]** а так же **учительское ПО**
+- [Terminal-UKNC](./Terminal-UKNC/) - клиентская плата УКНЦ
+- [Terminal-BK](./Terminal-BK/) - клиентская плата БК
 - [Documentation](./Documentation/) - руководства
 
 Дружественные проекты:
-- [Клиентская плата для ПЭВМ Корвет](https://github.com/lordamot/retro-lintech) была реконструирована коллегами NexusOfPenza и Lordamot
+- [Терминал плата для ПЭВМ Корвет](https://github.com/lordamot/retro-lintech) была реконструирована коллегами NexusOfPenza и Lordamot
 
 Платы в данном проекте не являются точной копией оригинала т.к. некоторые участки плат не видны под установлеными компонентами и невозможно сделать точную копию без разрушения оригинала. 
 Реконструкция создана в KiCad с чистого листа имея оригинальную плату (или ее фото) в качестве образца. 
