@@ -8,9 +8,9 @@ Title "NC-ACM"
 Date ""
 Rev "2.2"
 Comp "LInTech"
-Comment1 "gryphon@night-gryphon.ru"
-Comment2 "Reconstruction by Night_Gryphon"
-Comment3 ""
+Comment1 "https://github.com/nightgryphon/LInTech-network"
+Comment2 "gryphon@night-gryphon.ru"
+Comment3 "Reconstruction by Night_Gryphon"
 Comment4 "LInTech GM"
 $EndDescr
 $Comp
@@ -2690,7 +2690,7 @@ U 1 1 661B21F8
 P 18425 4200
 F 0 "LD1" H 18418 4037 50  0000 C CNN
 F 1 "LED Red 4mm" H 18418 4036 50  0001 C CNN
-F 2 "LED_THT:LED_D4.0mm" H 18425 4200 50  0001 C CNN
+F 2 "lib:LED_D4.0mm" H 18425 4200 50  0001 C CNN
 F 3 "~" H 18425 4200 50  0001 C CNN
 	1    18425 4200
 	1    0    0    1   
@@ -2701,7 +2701,7 @@ U 1 1 661B29B3
 P 3775 2150
 F 0 "LD2" H 3768 1987 50  0000 C CNN
 F 1 "LED Red 4mm" H 3768 1986 50  0001 C CNN
-F 2 "LED_THT:LED_D4.0mm" H 3775 2150 50  0001 C CNN
+F 2 "lib:LED_D4.0mm" H 3775 2150 50  0001 C CNN
 F 3 "~" H 3775 2150 50  0001 C CNN
 	1    3775 2150
 	0    -1   -1   0   
@@ -2954,7 +2954,7 @@ U 1 1 6667FFDA
 P 19975 2075
 F 0 "VT2" H 20350 2125 70  0000 R CNN
 F 1 "КТ315Б" H 20150 2025 70  0000 L CNN
-F 2 "Package_TO_SOT_THT:TO-92S_Wide" H 19975 2075 70  0001 C CNN
+F 2 "lib:TO-92S_Wide" H 19975 2075 70  0001 C CNN
 F 3 "" H 19975 2075 70  0001 C CNN
 	1    19975 2075
 	1    0    0    -1  
@@ -2965,7 +2965,7 @@ U 1 1 666804C0
 P 19975 4950
 F 0 "VT3" H 20375 5000 70  0000 R CNN
 F 1 "КТ315Б" H 20175 4900 70  0000 L CNN
-F 2 "Package_TO_SOT_THT:TO-92S_Wide" H 19975 4950 70  0001 C CNN
+F 2 "lib:TO-92S_Wide" H 19975 4950 70  0001 C CNN
 F 3 "" H 19975 4950 70  0001 C CNN
 	1    19975 4950
 	1    0    0    -1  

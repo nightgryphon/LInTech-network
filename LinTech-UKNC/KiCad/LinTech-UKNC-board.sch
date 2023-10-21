@@ -8,9 +8,9 @@ Title "NC-IFM"
 Date ""
 Rev "1.0"
 Comp "LInTech"
-Comment1 "gryphon@night-gryphon.ru"
-Comment2 "Reconstruction by Night_Gryphon"
-Comment3 ""
+Comment1 "https://github.com/nightgryphon/LInTech-network"
+Comment2 "gryphon@night-gryphon.ru"
+Comment3 "Reconstruction by Night_Gryphon"
 Comment4 "LInTech UKNC"
 $EndDescr
 $Comp

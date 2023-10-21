@@ -1,3 +1,5 @@
 All the original boards, the original firmware and software in this project are (c) LInTech
 
-Boards reconstruction by Night_Gryphon gryphon@night-gryphon.ru
+Boards reconstruction by Night_Gryphon 
+gryphon@night-gryphon.ru
+https://github.com/nightgryphon/LInTech-network
