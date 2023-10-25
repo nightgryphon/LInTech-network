@@ -52,7 +52,7 @@
 В данном проекте представлены:
 - [Server-IBM-PC](./Server-IBM-PC/) - головная **[ учительская плата ISA для IBM PC ]** а так же **учительское ПО**
 - [Terminal-UKNC](./Terminal-UKNC/) - клиентская плата УКНЦ
-- [Terminal-BK](./Terminal-BK/) - клиентская плата БК
+- [Terminal-BK0010](./Terminal-BK0010/) - клиентская плата БК 0010
 - [Documentation](./Documentation/) - руководства
 
 Дружественные проекты:
