@@ -2497,8 +2497,6 @@ Text GLabel 11075 9000 0    50   Input ~ 0
 ISA_IOR
 Wire Wire Line
 	18500 13725 18950 13725
-Text GLabel 15875 13225 0    49   Input ~ 0
-Port67_ISA_Data
 Text GLabel 15875 13125 0    50   Input ~ 0
 MCU_Int1
 Text GLabel 15450 11225 2    50   Input ~ 0
@@ -2551,8 +2549,6 @@ Wire Wire Line
 	14850 11325 14350 11325
 Text GLabel 18575 10675 0    50   Input ~ 0
 Port67_MCU_Read
-Text GLabel 19725 11225 2    49   Input ~ 0
-Port67_ISA_Data
 Text GLabel 14175 10725 0    49   Input ~ 0
 Port67_ISA_Read
 Wire Wire Line
@@ -2618,7 +2614,7 @@ Text GLabel 12075 9500 2    49   Input ~ 0
 Port89_ISA_Write
 Text GLabel 3025 2700 0    49   Input ~ 0
 Port89_ISA_Write
-Text GLabel 13575 4600 2    50   Input ~ 0
+Text GLabel 12775 4600 2    50   Input ~ 0
 DD5-OE
 Text GLabel 11125 3200 0    50   Input ~ 0
 RAM_WE
@@ -2646,7 +2642,7 @@ U 1 1 66185FBB
 P 3775 2450
 F 0 "R2" H 3650 2500 50  0000 C CNN
 F 1 "1K" H 3650 2425 50  0000 C CNN
-F 2 "lib:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 3705 2450 50  0001 C CNN
+F 2 "lib:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal" V 3705 2450 50  0001 C CNN
 F 3 "~" H 3775 2450 50  0001 C CNN
 	1    3775 2450
 	-1   0    0    -1  
@@ -2877,7 +2873,7 @@ U 1 1 6661FE57
 P 18325 5625
 F 0 "R12" H 18400 5675 50  0000 L CNN
 F 1 "3.3K" H 18575 5600 50  0000 R CNN
-F 2 "lib:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 18255 5625 50  0001 C CNN
+F 2 "lib:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal" V 18255 5625 50  0001 C CNN
 F 3 "~" H 18325 5625 50  0001 C CNN
 	1    18325 5625
 	1    0    0    -1  
@@ -2888,7 +2884,7 @@ U 1 1 6662040A
 P 20075 5300
 F 0 "R9" H 20000 5275 50  0000 R CNN
 F 1 "470" H 20005 5345 50  0000 R CNN
-F 2 "lib:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 20005 5300 50  0001 C CNN
+F 2 "lib:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal" V 20005 5300 50  0001 C CNN
 F 3 "~" H 20075 5300 50  0001 C CNN
 	1    20075 5300
 	-1   0    0    1   
@@ -2899,7 +2895,7 @@ U 1 1 666206BB
 P 20075 5800
 F 0 "R10" H 20150 5850 50  0000 L CNN
 F 1 "150" H 20300 5775 50  0000 R CNN
-F 2 "lib:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 20005 5800 50  0001 C CNN
+F 2 "lib:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal" V 20005 5800 50  0001 C CNN
 F 3 "~" H 20075 5800 50  0001 C CNN
 	1    20075 5800
 	1    0    0    -1  
@@ -3084,8 +3080,6 @@ F 3 "" H 20450 4275 50  0001 C CNN
 $EndComp
 Text GLabel 13075 1225 2    50   Input ~ 0
 MCU_A11
-Text Notes 13975 4700 0    47   ~ 0
-???\nкончается переходным\nпод DD3. \nВнешнее ПЗУ прошивки?
 Text Label 17725 2075 0    47   ~ 0
 DD10_Out11
 Connection ~ 20075 2525
@@ -3368,7 +3362,7 @@ Connection ~ 18200 5775
 Wire Wire Line
 	18200 5775 18325 5775
 Wire Wire Line
-	17700 2075 19100 2075
+	17700 2075 18600 2075
 Wire Wire Line
 	20075 1875 20225 1875
 Connection ~ 20225 1875
@@ -3431,8 +3425,6 @@ Wire Wire Line
 	18200 5475 18325 5475
 Wire Wire Line
 	19100 2075 19550 2075
-Wire Wire Line
-	12775 4600 13575 4600
 Connection ~ 17100 3500
 Wire Wire Line
 	20750 2725 20750 3500
@@ -3440,4 +3432,37 @@ Wire Wire Line
 	17100 3500 17625 3500
 Wire Wire Line
 	17925 3500 20750 3500
+Text GLabel 15875 13225 0    50   Input ~ 0
+MCU_Int0
+NoConn ~ 19725 11225
+$Comp
+L Device:R R15
+U 1 1 653B541F
+P 18600 2225
+F 0 "R15" H 18375 2250 50  0000 L CNN
+F 1 "4.9K" H 18550 2175 50  0000 R CNN
+F 2 "lib:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal" V 18530 2225 50  0001 C CNN
+F 3 "~" H 18600 2225 50  0001 C CNN
+	1    18600 2225
+	1    0    0    -1  
+$EndComp
+Connection ~ 18600 2075
+Wire Wire Line
+	18600 2075 19100 2075
+$Comp
+L power:+5V #PWR0194
+U 1 1 653B5787
+P 18600 2375
+F 0 "#PWR0194" H 18600 2225 50  0001 C CNN
+F 1 "+5V" V 18615 2503 50  0000 L CNN
+F 2 "" H 18600 2375 50  0001 C CNN
+F 3 "" H 18600 2375 50  0001 C CNN
+	1    18600 2375
+	1    0    0    1   
+$EndComp
+Text Notes 18475 2375 0    197  ~ 39
+X
+NoConn ~ 12775 4800
+NoConn ~ 12775 5100
+NoConn ~ 12775 5300
 $EndSCHEMATC

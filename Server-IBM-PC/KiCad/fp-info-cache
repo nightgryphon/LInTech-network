@@ -1,4 +1,4 @@
-19700922301379798
+19704321289973125
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -78071,16 +78071,16 @@ SparkFun-Connectors
 40
 40
 SparkFun-Connectors
-2X3
-
-
+2X03
+PIN HEADER
+PIN HEADER
 0
 6
 6
 SparkFun-Connectors
-2X03
-PIN HEADER
-PIN HEADER
+2X3
+
+
 0
 6
 6
@@ -85904,6 +85904,13 @@ Diode A-405 series Axial Horizontal pin pitch 12.7mm  length 5.2mm diameter 2.7m
 2
 2
 lib
+Jumper3_12closed_P2.54mm
+Through hole straight pin header, 1x03, 2.54mm pitch, single row
+Through hole pin header THT 1x03 2.54mm single row
+0
+3
+3
+lib
 Jumper_P2.54mm_Close
 Through hole straight pin header, 1x02, 2.54mm pitch, single row
 Through hole pin header THT 1x02 2.54mm single row
@@ -85926,13 +85933,6 @@ LED diameter 4.0mm 2 pins
 2
 lib
 PinHeader_1x08_P2.54mm_Vertical
-Through hole straight pin header, 1x08, 2.54mm pitch, single row
-Through hole pin header THT 1x08 2.54mm single row
-0
-8
-8
-lib
-PinHeader_1x08_P2.54mm_Vertical.bk
 Through hole straight pin header, 1x08, 2.54mm pitch, single row
 Through hole pin header THT 1x08 2.54mm single row
 0
@@ -85973,3 +85973,17 @@ TO-92S_Wide transistor
 0
 3
 3
+lib
+TO-126-3_Vertical
+TO-126-3, Vertical, RM 2.54mm, see https://www.diodes.com/assets/Package-Files/TO126.pdf
+TO-126-3 Vertical RM 2.54mm
+0
+3
+3
+lib
+TestPad
+Through hole straight pin header, 1x01, 1.00mm pitch, single row
+Through hole pin header THT 1x01 1.00mm single row
+0
+1
+1
