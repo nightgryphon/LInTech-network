@@ -1,8 +1,10 @@
 # LInTech - плата Терминальной Машины (ТМ) - клиента ПК Корвет (ПК 8010/8020 «Корвет»)
 
-Плата в процессе воссоздания [Night Gryphon'ом](https://github.com/nightgryphon) по фото и сканам имеющихся в наличии у [Serebriakov](https://github.com/PaulArgent) и [Lordamot](https://github.com/lordamot) оригиналам.
+Оригинальная плата версии 2.1 отсканирована и отрисована в формате DipTrace [в проекте](https://github.com/lordamot/retro-lintech)  NexusOfPenza и Lordamot.
 
-- Reference_Photo - фото и сканы плат
+На основе данного проекта планируется воссоздать принципиальную схему и разводку платы в KiCad, подготовить файлы для производства реплики.
+
+- В разделе Reference_Photo собраны фото и сканы различных вариантов данной платы и примеры ее установки от [Serebriakov](https://github.com/PaulArgent), [Lordamot](https://github.com/lordamot), Антона Миронова.
 - Firmware - микропрограммы (прошивки)
 
 ## Техническое описание
